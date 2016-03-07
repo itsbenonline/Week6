@@ -1,5 +1,4 @@
-//creating a class to draw tha ball
-//the whole top part is the class being built. line 39 on is calling the ballz
+//Classssessss!
 
 
 class Ball {
