@@ -1,4 +1,4 @@
-//using both a class and an array, creating 1000 ballz
+//Array and Class
 
 class Ball {
   int x;
